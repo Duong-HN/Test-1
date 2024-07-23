@@ -1,0 +1,6 @@
+
+ 
+int main() {
+  // In ra man hinh
+  printf("Hello, World!");
+}
